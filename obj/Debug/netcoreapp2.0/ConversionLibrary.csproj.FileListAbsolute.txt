@@ -1,0 +1,9 @@
+C:\Users\Jakub\Desktop\Assignment\ConversionLibrary\ConversionLibrary\ConversionLibrary\bin\Debug\netcoreapp2.0\ConversionLibrary.deps.json
+C:\Users\Jakub\Desktop\Assignment\ConversionLibrary\ConversionLibrary\ConversionLibrary\bin\Debug\netcoreapp2.0\ConversionLibrary.dll
+C:\Users\Jakub\Desktop\Assignment\ConversionLibrary\ConversionLibrary\ConversionLibrary\bin\Debug\netcoreapp2.0\ConversionLibrary.pdb
+C:\Users\Jakub\Desktop\Assignment\ConversionLibrary\ConversionLibrary\ConversionLibrary\obj\Debug\netcoreapp2.0\ConversionLibrary.csprojAssemblyReference.cache
+C:\Users\Jakub\Desktop\Assignment\ConversionLibrary\ConversionLibrary\ConversionLibrary\obj\Debug\netcoreapp2.0\ConversionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\Assignment\ConversionLibrary\ConversionLibrary\ConversionLibrary\obj\Debug\netcoreapp2.0\ConversionLibrary.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\Assignment\ConversionLibrary\ConversionLibrary\ConversionLibrary\obj\Debug\netcoreapp2.0\ConversionLibrary.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\Assignment\ConversionLibrary\ConversionLibrary\ConversionLibrary\obj\Debug\netcoreapp2.0\ConversionLibrary.dll
+C:\Users\Jakub\Desktop\Assignment\ConversionLibrary\ConversionLibrary\ConversionLibrary\obj\Debug\netcoreapp2.0\ConversionLibrary.pdb
